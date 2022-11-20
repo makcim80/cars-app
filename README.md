@@ -3,4 +3,4 @@
 
 ## Результат вы можете посмотреть тут
 
-[Погружение в JavaScript](https://makcim80.github.io/cars-app/)
+[Выкатываем на продакшен](https://makcim80.github.io/cars-app/)
